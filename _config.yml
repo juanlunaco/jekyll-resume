@@ -2,13 +2,13 @@
 
 # Site settings
 title: Juan Luna
-email: email@domain.com
-description: Jekyll Resume is a mega simple resume theme for Jekyll.
+email: contacto@juanluna.co
+description: A ver a ver a ver.
 baseurl: ""
 url: "http://juanluna.co"
-name: Matt Couchman
-job: front end engineer
-location: Birmingham, UK
+name: Juan Luna
+job: front end developer & web designer
+location: Bogotá, CO
 languages: HTML, CSS and Javascript
 twitter_username: mattcouchman
 github_username:  mattcouchman
